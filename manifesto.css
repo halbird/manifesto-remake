@@ -1,0 +1,206 @@
+main {
+  text-align: justify;
+  text-transform: uppercase;
+  font-family: 'Arvo', serif;
+  width: 480px;
+  overflow: auto;
+  font-weight: 400;
+  border: 5px solid black;
+  background: #e0ccff;
+  padding-left: 16px;
+  padding-top: 10px;
+  padding-bottom: 3px;
+  
+}
+p {
+  /*clear: both;*/
+  margin: 0;
+  padding: 0;
+}
+
+/* two floated divs at top */
+.float-top {
+  float: left;
+  margin-botom: 0;
+}
+/* only the left floated div */
+.top-left {
+  margin-bottom: 0px;
+  word-spacing: 2px;
+}
+
+.this-is {
+  font-size: 31px;
+}
+.do-what {
+  font-size: 20px;
+}
+.and-do {
+  font-size: 22px;
+}
+
+/* right floated div */
+.life {
+  font-size: 98px;
+  margin-top: -10px;
+  margin-bottom: -20px;
+}
+
+/* chunk under the floated top pieces */
+.top-chunk {
+  clear: both;
+  padding: 0;
+  margin: 0;
+}
+.if-you-change {
+  font-size: 19px;
+  word-spacing: 4.5px;
+}
+.if-you-quit {
+  font-size: 24px;
+  word-spacing: 5.75px;
+}
+.if-you-tv {
+  font-size: 15px;
+  word-spacing: 2.75px;
+}
+.if-you-love {
+  font-size: 14px;
+  word-spacing: 5.25px;
+}
+.they-will {
+  font-size: 19px;
+  word-spacing: 1.5px;
+}
+.start-doing {
+  font-size: 25px;
+  word-spacing: 9px;
+}
+
+/* float both middle divs */
+.float-middle {
+  float: left;
+}
+/* mid left float */
+.stop-over {
+  font-size: 19px;
+}
+.life-is {
+  font-size: 31px;
+}
+/* mid right float */
+.all-emotions {
+  font-size: 12px;
+}
+.when-you {
+  font-size: 13px;
+  word-spacing: 5.75px
+}
+.every-last {
+  font-size: 21px;
+  word-spacing: 11.5px;
+}
+.mid-right {
+  margin-left: 8px;
+  word-spacing: 5px;
+}
+
+/* middle chunk under floated */
+.mid-chunk {
+  clear: both;
+}
+.open-your {
+  font-size: 16px;
+  word-spacing: 0.75px;
+}
+.and-people {
+  font-size: 16px;
+  word-spacing: 5.25px;
+}
+.ask-the {
+  font-size: 15px;
+  word-spacing: 1.75px;
+}
+.and-share {
+  font-size: 17px;
+  word-spacing: 3px;
+}
+
+/* lower float both divs */
+.float-lower {
+  float: left;
+}
+
+/* lower left float */
+.travel {
+  font-size: 33px;
+}
+
+/* lower right float */
+.getting-lost {
+  font-size: 18px;
+}
+.help-you {
+  font-size: 13px;
+  word-spacing: 6px;
+  margin-left: 1px
+}
+
+/* lower chunk below floated */
+.low-chunk {
+  clear: both;
+}
+.some-opportunities {
+  font-size: 15px;
+  word-spacing: 6.5px;
+}
+.life-is-about {
+  font-size: 20px;
+  word-spacing: 2.75px
+}
+.the-things {
+  font-size: 21px;
+  word-spacing: 7.25px;
+}
+.so-go-out {
+  font-size: 25px;
+  word-spacing: 4.5px
+}
+
+/* bottom float */
+.float-bottom {
+  float: left;
+}
+.life-short {
+  font-size: 53px;
+}
+.live-dream {
+  font-size: 26px;
+}
+.share {
+  font-size: 41px;
+}
+.passion {
+  font-size: 33px;
+  margin-left: -2px
+}
+.bottom-right {
+  margin-left: 10px;
+}
+
+.credits {
+  font-size: 10px;
+  clear: both;
+}
+.inline {
+  display: inline;
+}
+.left {
+  margin-left: 0px;
+}
+.middle {
+  margin-left: 26px;
+}
+.right{
+  margin-left: 26px;
+} 
